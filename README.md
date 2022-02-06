@@ -1,4 +1,4 @@
-# Microsoft Imagine Cup — Banjeer
+# AWS Disaster Response — Banjeer
 This is our repository for our product, **Banjeer**!
 
 The flood in Jakarta has been a recurring problem since the 17th century. Furthermore, the flood in Jakarta is still happening annually, and climate change makes the matter even worse every year.
